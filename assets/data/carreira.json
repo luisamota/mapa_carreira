@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "title": "Maria Luisa Mota | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Maria Luisa com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Maria Luisa Mota",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Maria Luisa Mota",
+    "headline": "Full Stack Developer",
+    "photo": "assets/images/profile1.jpeg",
+    "photoAlt": "Foto profissional de Maria Luisa Mota",
+    "summary": "Sou estudante e desenvolvedora em formação, com interesse em desenvolvimento Full Stack, arquitetura de software e criação de soluções digitais. Busco evoluir continuamente por meio de estudos, projetos práticos e desafios reais, desenvolvendo habilidades técnicas e colaborativas para gerar impacto através da tecnologia.",
+    "cvUrl": "cvUrl: assets/docs/Curriculo.Maria_Luisa_Mota_Santos.pdf"
+  },
+  "contacts": [
+    {
+      "label": "motaluisa06@gmail.com",
+      "url": "mailto:motaluisa06@gmail.com"
+    },
+    {
+      "label": "linkedin.com/in/marialuisamota",
+      "url": "https://www.linkedin.com/in/marialuisamota/"
+    },
+    {
+      "label": "github.com/luisamota",
+      "url": "https://github.com/luisamota"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Desenvolvedor Full Stack Júnior",
+      "description": "Consolidar fundamentos de front-end, back-end, banco de dados e boas práticas de desenvolvimento, participando de projetos reais e adquirindo experiência profissional.",
+      "softSkills": [
+        "Comunicacao clara para pedir ajuda e registrar aprendizados.",
+        "Organizacao para estudar, praticar e acompanhar tarefas.",
+        "Curiosidade para investigar problemas e testar solucoes."
+      ],
+      "roadmap": [
+        "HTML, CSS e JavaScript",
+        "Git e GitHub",
+        "Banco de Dados (MySQL)",
+        "APIs REST",
+        "MVC",
+        "C#",
+        "Testes básicos",
+        "Deploy"
+      ]
+    },
+    {
+      "title": "Desenvolvedor Full Stack Pleno",
+      "description": "Objetivo: desenvolver sistemas escaláveis, participar de decisões técnicas e contribuir para arquitetura de software.",
+      "softSkills": [
+        "Resolução de problemas",
+        "Pensamento analítico",
+        "Gestão de tempo"
+      ],
+      "roadmap": [
+        "Arquitetura de Software",
+        "Clean Code",
+        "Segurança de APIs",
+        "Testes automatizados",
+        "Design Patterns"
+      ]
+    },
+    {
+      "title": "Liderança Técnica e Produto",
+      "description": "Liderar soluções tecnológicas, orientar equipes e unir desenvolvimento, produto e visão estratégica.",
+      "softSkills": [
+        "Liderança",
+        "Mentoria",
+        "Comunicação estratégica",
+        "Tomada de decisão"
+      ],
+      "roadmap": [
+        "Cloud Computing",
+        "Arquitetura escalável",
+        "Gestão de produto",
+        "UX/UI",
+        "Inteligência Artificial",
+        "Negócios e empreendedorismo"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Frontend",
+      "skills": [
+        {
+          "name": "HTML, CSS e JavaScript",
+          "level": 85
+        },
+        {
+          "name": "React",
+          "level": 70
+        }
+      ]
+    },
+    {
+      "title": "Backend e dados",
+      "skills": [
+        {
+          "name": "Node.js e APIs",
+          "level": 65
+        },
+        {
+          "name": "SQL",
+          "level": 80
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Git",
+    "Comunicacao",
+    "Documentacao",
+    "Code review"
+  ],
+  "languages": [
+    {
+      "name": "Portugues",
+      "level": "Nativo"
+    },
+    {
+      "name": "Ingles",
+      "level": "Intermediario"
+    }
+  ]
+}
